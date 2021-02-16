@@ -1,0 +1,11 @@
+use devdb; CREATE TABLE prodemployees( ... by Nigam, Sajal
+Nigam, Sajal12:34 PM
+use devdb;
+CREATE TABLE prodemployees(
+    Employee_id INT,
+    name VARCHAR (25),Designation VARCHAR(25));
+Insert into prodemployees(Employee_id,name,Designation) Values(1,'ami','SE');
+Insert into prodemployees(Employee_id,name,Designation) Values(2,'rockxin','Analyst');
+Insert into prodemployees(Employee_id,name,Designation) Values(3,'samm','DEVELOPER');
+Insert into prodemployees(Employee_id,name,Designation) Values(4,'manro','AnalysT');
+Insert into prodemployees(Employee_id,name,Designation) Values(5,'bob','QA');
